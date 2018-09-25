@@ -1,6 +1,9 @@
-/*@import url('https://fonts.googleapis.com/css?family=Raleway');*/
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body {
+  line-heigh: 1.8em;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
   margin: 0;
 }
 
